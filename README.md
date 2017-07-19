@@ -3,7 +3,7 @@
 
 Our reading group meets at *??(am/pm)* on *TBA* in [MCS  (room number TBA)](https://www.google.com/maps/place/111+Cummington+Mall,+Boston,+MA+02215/@42.3490961,-71.106378,17z/data=!3m1!4b1!4m5!3m4!1s0x89e379f0c4ef07c1:0xae092ed802b7f90a!8m2!3d42.3490961!4d-71.1041893).   Email Babis (tsourolampis at gmail.com) if you want to present a paper, or for any questions. 
 
-## Readings
+## Suggested papers
 
 
 
