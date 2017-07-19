@@ -13,7 +13,7 @@ Our reading group meets at *??(am/pm)* on *TBA* in [MCS  (room number TBA)](http
 - [Assessing significance in a Markov Chain without mixing](https://arxiv.org/abs/1608.02014) by Chikina, Frieze, Pegden
 - [Testing from One Sample: Is the casino really using a riffle shuffle?](https://arxiv.org/abs/1704.06850) by Daskalakis, Dikkala, Gravin 
 - [Almost-Linear-Time Algorithms for Markov Chains and New Spectral Primitives for Directed Graphs](https://arxiv.org/abs/1611.00755) by Cohen, Kelner, Peebles, Peng, Rao, Sidford, Vladu 
-- [Average Distance Queries through Weighted Samples in Graphs and Metric Spaces: High Scalability with Tight Statistical Guarantees] by Chichik, Cohen, Kaplan 
+- [Average Distance Queries through Weighted Samples in Graphs and Metric Spaces: High Scalability with Tight Statistical Guarantees](https://arxiv.org/abs/1503.08528) by Chichik, Cohen, Kaplan 
 - [Graph Sparsification by Effective Resistances](https://arxiv.org/abs/0803.0929) by Spielman, Srivastava 
 - [Twice-Ramanujan Sparsifiers](https://arxiv.org/abs/0808.0163) by Batson, Spielman, Srivastava
 - [Capacity Releasing Diffusion for Speed and Locality](https://arxiv.org/abs/1706.05826) by Wang, Fountoulakis, Henzinger,  Mahoney, Rao 
