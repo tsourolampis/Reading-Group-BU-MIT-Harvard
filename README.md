@@ -1,7 +1,16 @@
 #  *Big Data, Graphs, and Learning* 
 
 
-Our reading group meets at *??(am/pm)* on *TBA* in [MCS  (room number TBA)](https://www.google.com/maps/place/111+Cummington+Mall,+Boston,+MA+02215/@42.3490961,-71.106378,17z/data=!3m1!4b1!4m5!3m4!1s0x89e379f0c4ef07c1:0xae092ed802b7f90a!8m2!3d42.3490961!4d-71.1041893).   Email Babis (tsourolampis at gmail.com) if you want to present a paper, or for any questions. 
+Our reading group meets from 3 to 5 in  [MCS B08](https://www.google.com/maps/place/111+Cummington+Mall,+Boston,+MA+02215/@42.3490961,-71.106378,17z/data=!3m1!4b1!4m5!3m4!1s0x89e379f0c4ef07c1:0xae092ed802b7f90a!8m2!3d42.3490961!4d-71.1041893).   Email Babis (tsourolampis at gmail.com) if you want to present a paper, or for any questions. 
+
+
+## Schedule 
+ 
+
+| Date  | Paper | Presenter |  
+-----------------------------
+| 7/27 | [Almost-Linear-Time Algorithms for Markov Chains and New Spectral Primitives for Directed Graphs](https://arxiv.org/abs/1611.00755)| Adrian Vladu|
+
 
 ## Suggested papers
 
