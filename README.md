@@ -7,8 +7,10 @@ Our reading group meets from 3 to 5 in  [MCS B08](https://www.google.com/maps/pl
 ## Schedule 
  
 
-- **7/27**:  [Almost-Linear-Time Algorithms for Markov Chains and New Spectral Primitives for Directed Graphs](https://arxiv.org/abs/1611.00755)  
- *Adrian Vladu*
+- **7/27**: (Part I) [Faster Algorithms for Computing the Stationary Distribution, Simulating Random Walks, and More](https://arxiv.org/abs/1608.03270)  
+*Adrian Vladu*
+- **3/8**: (Part II) [Faster Algorithms for Computing the Stationary Distribution, Simulating Random Walks, and More](https://arxiv.org/abs/1608.03270)  
+*Adrian Vladu*
 
 ## Suggested papers
 
