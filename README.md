@@ -9,8 +9,11 @@ Our reading group meets from 3 to 5 in  [MCS B08](https://www.google.com/maps/pl
 
 - **7/27**: (Part I) [Faster Algorithms for Computing the Stationary Distribution, Simulating Random Walks, and More](https://arxiv.org/abs/1608.03270)  
 *Adrian Vladu*
-- **3/8**: (Part II) [Faster Algorithms for Computing the Stationary Distribution, Simulating Random Walks, and More](https://arxiv.org/abs/1608.03270)  
+- **8/11**: (Part II) [Faster Algorithms for Computing the Stationary Distribution, Simulating Random Walks, and More](https://arxiv.org/abs/1608.03270)  
 *Adrian Vladu*
+- **8/17**: [Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees](http://theory.epfl.ch/kapralov/papers/rr-sampling.pdf)   
+*Chris Musco*  
+
 
 ## Suggested papers
 
@@ -44,6 +47,7 @@ Our reading group meets from 3 to 5 in  [MCS B08](https://www.google.com/maps/pl
 
 ## Participants 
 
+- Jelena Diakonikolas (BU) 
 - Cameron Musco (MIT)
 - Chris Musco  (MIT) 
 - Lorenzo Orecchia (BU/MIT) 
