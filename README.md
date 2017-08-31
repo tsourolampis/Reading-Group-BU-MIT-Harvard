@@ -13,8 +13,9 @@ Our reading group meets from 3 to 5 in  [MCS B08](https://www.google.com/maps/pl
 *Adrian Vladu*
 - **8/17**: [Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees](http://theory.epfl.ch/kapralov/papers/rr-sampling.pdf)   
 *Chris Musco*  
-
-
+- **8/31**: [Minimizing Effective Resistance of a Graph](http://epubs.siam.org/doi/pdf/10.1137/050645452), [Subgraph Sparsification and Nearly Optimal Ultrasparsifiers](https://arxiv.org/pdf/0912.1623.pdf) 
+*Babis Tsourakakis* 
+ 
 ## Suggested papers
 
 ### Graphs 
